@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Sphinx generated HTML
+PYTHON_TEMPLATE/doc/doctrees/**
+PYTHON_TEMPLATE/doc/doctrees/index.doctree
+PYTHON_TEMPLATE/doc/html/**
