@@ -6,6 +6,8 @@ Search and replace `PYTHON_TEMPLATE` in all files in this repository with the re
 
 Set CODECOV_SECRET to the Codecov token.
 
+Set PIP_TOKEN to the PyPI token.
+
 And ``Release-Candidate`` if you aren't me :D
 
 [![MIT license badge](https://img.shields.io/github/license/Release-Candidate/PYTHON_TEMPLATE)](https://github.com/Release-Candidate/PYTHON_TEMPLATE/blob/main/LICENSE)
