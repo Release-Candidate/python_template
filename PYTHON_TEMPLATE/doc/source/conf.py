@@ -17,15 +17,18 @@ import sys
 
 sys.path.insert(0, os.path.abspath("../../../"))
 
+from PYTHON_TEMPLATE import VERSION  # noqa: E402
+
 
 # -- Project information -----------------------------------------------------
 
 project = "PYTHON_TEMPLATE"
 copyright = "2021, Release-Candidate"
 author = "Release-Candidate"
+version = VERSION
 
 # The full version, including alpha/beta/rc tags
-release = "1.0.0"
+release = version
 
 
 # -- General configuration ---------------------------------------------------

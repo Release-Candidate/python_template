@@ -60,6 +60,7 @@ jobs:
           pipenv run python -m PYTHON_TEMPLATE -y
 
       # - uses: actions/upload-artifact@v2
+      #  if: ${{ always() }}
       #   with:
       #     name: OSX PYTHON_TEMPLATE Debug Log
       #     path: log_file.txt
@@ -98,6 +99,7 @@ jobs:
           cd $GITHUB_WORKSPACE
           python -m PYTHON_TEMPLATE -y
       # - uses: actions/upload-artifact@v2
+      #  if: ${{ always() }}
       #   with:
       #     name: OSX PYTHON_TEMPLATE Pkg Debug Log
       #     path: log_file.txt
