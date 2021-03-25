@@ -1,6 +1,6 @@
 # PYTHON_TEMPLATE
 
-Python repository temple
+Python repository template. 
 
 Search and replace `PYTHON_TEMPLATE` in all files in this repository with the real project name.
 And ``Release-Candidate`` if you aren't me :D
