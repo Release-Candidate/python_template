@@ -1,6 +1,6 @@
 # PYTHON_TEMPLATE
 
-Python repository template. 
+Python repository template.
 
 Search and replace `PYTHON_TEMPLATE` in all files in this repository with the real project name.
 And ``Release-Candidate`` if you aren't me :D
@@ -8,8 +8,6 @@ And ``Release-Candidate`` if you aren't me :D
 Set CODECOV_SECRET to the Codecov token.
 
 Set PIP_TOKEN to the PyPI token.
-
-
 
 [![MIT license badge](https://img.shields.io/github/license/Release-Candidate/PYTHON_TEMPLATE)](https://github.com/Release-Candidate/PYTHON_TEMPLATE/blob/main/LICENSE)
 [![Python version badge](https://img.shields.io/pypi/pyversions/PYTHON_TEMPLATE)](https://www.python.org/downloads/)
